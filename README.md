@@ -1,3 +1,5 @@
+> **This repository is a copy of a project originally created by Madhav Meesala,** who is credited as the maintainer in this README. It has no license file, so all rights remain with the original author. It is kept here for study and reference. All credit for the code and documentation belongs to the original author; it is not original work of this repository's owner.
+
 # Intrusion Detection and Prevention System (IDPS)
 #### Maintainer: [Madhav Meesala](https://github.com/madhavmeesala)
 
